@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cobalagi", "cobalagi.csproj", "{4ED73DAD-672E-4C77-87F3-645B02E63F3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ED73DAD-672E-4C77-87F3-645B02E63F3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED73DAD-672E-4C77-87F3-645B02E63F3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED73DAD-672E-4C77-87F3-645B02E63F3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED73DAD-672E-4C77-87F3-645B02E63F3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2225E21-76F5-449B-8F1C-5D83A47ACAD6}
+	EndGlobalSection
+EndGlobal
